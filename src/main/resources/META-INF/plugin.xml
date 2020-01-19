@@ -1,0 +1,7 @@
+<idea-plugin xmlns:xi="http://www.w3.org/2001/XInclude">
+  <id>com.intellij.example.wrongPathResolver</id>
+  <name>WrongPathResolver</name>
+  <vendor/>
+  <depends>com.intellij.modules.lang</depends>
+  <xi:include href="/META-INF/Core.xml" xpointer="xpointer(/idea-plugin/*)"/>
+</idea-plugin>
